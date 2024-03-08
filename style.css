@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+}
+
+li,ul{
+    display:inline-block;
+
+}
+
+ul{
+    margin-left: 40%;
+}
+
+li{
+    color: black;
+    cursor: pointer;
+}
+
+li:hover{
+    color: white;
+}
+
+h1{
+    display: block;
+    padding: 5px;
+    margin-left: 45%;
+}
+
+input{
+    width: 60%;
+    padding: 15px;
+}
+
+.products{
+    padding: 40px;
+    text-align: center;
+    border: 2px;
+}
+
+p2{
+    background-color: black;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+p3{
+    background-color: black;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+p4{
+    background-color: black;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+p5{
+    background-color: black;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.box{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    width: 100px;
+    height: 180px;
+    
+}
+
+.box:hover{
+       background-color: white;
+       color: black;
+}
+.products{ 
+    padding: 40px;
+    text-align: center;
+}
+
+.contact{
+    background-color: lightcoral;
+    margin-right: 6%;
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 80px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 700px;
+}
+
+p{
+    color: black;
+    text-align: right;
+    margin-right: 150px;
+    margin-top:5px;
+}
+p1{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    color: color;
+    width: 650px;
+    cursor: pointer;
+
+
+    
+}
+.paragraph{
+
+    background-color: lightcoral;
+    color: black;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 90px;
+    margin-top: 10px;
+    width: 850px;
+    display: inline-block;
+
+}
+.p6{
+    text-align: center;
+    margin-right: 30px;
+}   
